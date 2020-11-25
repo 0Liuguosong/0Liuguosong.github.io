@@ -2,8 +2,8 @@
         var offsetY = $("#loveHeart").height() / 2 - 55;
         var together = new Date();
         together.setFullYear(2020, 8, 19);
-        together.setHours(7);
-        together.setMinutes(49);
+        together.setHours(8);
+        together.setMinutes(11);
         together.setSeconds(0);
         together.setMilliseconds(0);
 
